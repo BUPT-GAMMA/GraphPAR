@@ -1,5 +1,5 @@
 # GraphPAR
-Source code for WWW 2024 paper "[Endowing Pre-trained Graph Models with Provable Fairness](http://www.shichuan.org/doc/172.pdf)"
+Source code for WWW 2024 paper "[Endowing Pre-trained Graph Models with Provable Fairness](https://arxiv.org/pdf/2402.12161)"
 
 ![image-20240302114357020](https://img.dreamcodecity.cn/img/image-20240302114357020.png)
 
@@ -46,10 +46,11 @@ python train_GraphPAR.py --dataset pokec_n --activation leakyrelu --hidden_dim 2
 # Reference
 
 ```
-@article{zhang2024graphpar,
+@inproceedings{zhang2024endowing,
   title={Endowing Pre-trained Graph Models with Provable Fairness},
   author={Zhang, Zhongjian and Zhang, Mengmei and Yu, Yue and Yang, Cheng and Liu, Jiawei and Shi, Chuan},
-  journal={arXiv preprint arXiv:2402.12161},
+  booktitle={Proceedings of the ACM on Web Conference 2024},
+  pages={1045--1056},
   year={2024}
 }
 ```
