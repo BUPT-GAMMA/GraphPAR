@@ -1,7 +1,7 @@
 # GraphPAR
 Source code for WWW 2024 paper "[Endowing Pre-trained Graph Models with Provable Fairness](https://arxiv.org/pdf/2402.12161)"
 
-![image-20240302114357020](https://img.dreamcodecity.cn/img/image-20240302114357020.png)
+![image-20240302114357020](http://img.dreamcodecity.cn/img/image-20240302114357020.png)
 
 # Requirements
 - Python 3.8
